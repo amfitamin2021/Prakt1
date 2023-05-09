@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hellooooo
+=======
+HelloWorld
+>>>>>>> 2nd_branch
